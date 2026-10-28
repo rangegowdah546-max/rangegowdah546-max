@@ -1,5 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm YOUR_USERNAME</h1>
+<h1 align="center">Hi 👋, I'm 
+rangegowdah546-max</h1>
 <h3 align="center">🚀 Python Developer | Tech Enthusiast</h3>
 
 <p align="center">
@@ -22,20 +23,25 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=
+rangegowdah546-max&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+rangegowdah546-max&layout=compact&theme=tokyonight" height="165" />
 </p>
 
 ### 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/
+rangegowdah546-max/
+rangegowdah546-max/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ### 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/
+rangegowdah546-max">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
